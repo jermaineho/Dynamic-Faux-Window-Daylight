@@ -8,7 +8,7 @@
 
 # Dynamic Faux Window: Daylight Live Wallpaper
 
-As an amateur landscape photographer, I always wanted a way to display my favorite views on screen—like looking out a window at a breathtaking scenery. Now, with the power of AI, we can finally make that a reality.
+As an amateur landscape photographer, I always wanted a way to display my favorite views on screen—like looking out a window at a breathtaking scenery. Now, with the power of AI, I can finally make that a reality.
 
 ---
 
@@ -42,7 +42,7 @@ This project is packaged as a **Lively Wallpaper** scene. No complex installatio
 
 # 動態日晝仿窗動態桌布
 
-身為一位業餘風景攝影師，我一直希望能有一種方式，能在螢幕上隨時展示我最愛的景色——就像透過窗戶望向令人屏息的壯麗風光。現在，藉由 AI 的力量，我們終於能將這個願景化為現實。
+身為一位業餘風景攝影師，我一直希望能有一種方式，可以在螢幕上隨時展示我最愛的景色，透過窗戶望向令人屏息的壯麗風光。現在，藉由 AI 的力量，我終於能將這個夢想化為現實了！
 
 ---
 
