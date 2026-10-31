@@ -21,7 +21,7 @@ As an amateur landscape photographer, I always wanted a way to display my favori
 ---
 
 ## 🌄 Preview
-[Dynamic-Faux-Window-Daylight-Sample.webm](https://github.com/user-attachments/assets/3eace59d-b570-441d-ba33-3ac76087b077)
+[Dynamic-Faux-Window-Daylight-Sample.webm](https://github.com/user-attachments/assets/d97c0ef0-f947-4015-91a8-b56216fa7270)
 
 ---
 
@@ -55,7 +55,7 @@ This project is packaged as a **Lively Wallpaper** scene. No complex installatio
 ---
 
 ## 🌄 效果預覽
-[Dynamic-Faux-Window-Daylight-Sample.webm](https://github.com/user-attachments/assets/3eace59d-b570-441d-ba33-3ac76087b077)
+[Dynamic-Faux-Window-Daylight-Sample.webm](https://github.com/user-attachments/assets/d97c0ef0-f947-4015-91a8-b56216fa7270)
 
 ---
 
